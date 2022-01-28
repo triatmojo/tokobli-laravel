@@ -1,0 +1,23 @@
+@import "../vendor/bootstrap/scss/bootstrap.scss";
+
+@import "global";
+@import "navbar";
+@import "fonts";
+
+
+@import "pages/home";
+@import "pages/details";
+@import "pages/carts";
+@import "pages/success";
+@import "pages/auth";
+@import "pages/dashboard";
+
+
+@import "transitions/slide-fade";
+
+@import "component/categories";
+@import "component/products";
+@import "component/breadcrumb";
+@import "component/card";
+@import "component/card-list";
+@import "component/card-dashboard";

@@ -1,0 +1,22 @@
+.card-dashboard-product {
+    display: block;
+    margin-bottom: 10px;
+
+    img {
+        max-height: 160px;
+        border-radius: 8px;
+
+    }
+
+    .product-title {
+        font-size: 18px;
+        font-weight: normal;
+        color: #0c0d36;
+    }
+
+    .product-category {
+        font-size: 16px;
+        font-weight: normal;
+        color: #c5c5c5;
+    }
+}
